@@ -49,4 +49,6 @@ In order to minimize technical effects, you should do the analysis as described 
 
 ## Hot to Cite
 
-Weißbach, Stephan, et al. "Cortexa – a comprehensive web-portal for gene expression and alternative splicing of the murine neocortex and hippocampus." *biorxiv* (2024).
+> Weißbach, Stephan, et al. "Cortexa – a comprehensive web-portal for gene expression and alternative splicing of the murine neocortex and hippocampus." *biorxiv* (2024).
+
+and the data sets that you used, which can be found at [Cortexa - About the data]([https://cortexa-rna.com/about]).
