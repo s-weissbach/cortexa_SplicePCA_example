@@ -10,7 +10,7 @@ As a first step, to get familiar with the SplicePCA tool, you can use the analyz
 
 Once these files are downloaded, you can use them for the custom analysis in SplicePCA. 
 
-1. Browse to [Cortexa's SplicePCA]([Cortexa](https://cortexa-rna.com/pca)) 
+1. Browse to [Cortexa's SplicePCA](https://cortexa-rna.com/pca)
 
 2. Select relevant datasets for the PCA analysis – in this case **Development** and **NPC/neuron** could be a good choice
 
@@ -32,15 +32,12 @@ In order to minimize technical effects, you should do the analysis as described 
 
 **Tools**:
 
-- [BBDuk (version 39.01)]([Download BBMap_39.01.tar.gz (BBMap)](https://sourceforge.net/projects/bbmap/files/BBMap_39.01.tar.gz/download))
-
+- [BBDuk (version 39.01)](https://sourceforge.net/projects/bbmap/files/BBMap_39.01.tar.gz/download)
 - [STAR (version 2.7.10b)](https://github.com/alexdobin/STAR/releases/download/2.7.11b/STAR_2.7.11b.zip)
-
-- [rMATS turbo (version 4.1.2)]([User Guide](https://rnaseq-mats.sourceforge.io/rmats4.0.1/user_guide.htm))
+- [rMATS turbo (version 4.1.2)](https://rnaseq-mats.sourceforge.io/rmats4.0.1/user_guide.htm)
 
 **Reference Genome**:
-
-- [Gencode mm39]([GENCODE - Mouse Release M33](https://www.gencodegenes.org/mouse/release_M33.html))
+- [Gencode mm39](https://www.gencodegenes.org/mouse/release_M33.html)
 
 
 <img title="Analysis Pipeline" src="graphics/pipeline_graph.svg" alt="pipeline" width="594">
@@ -51,4 +48,4 @@ In order to minimize technical effects, you should do the analysis as described 
 
 > Weißbach, Stephan, et al. "Cortexa – a comprehensive resource for studying gene expression and alternative splicing in the murine brain." *biorxiv* (2024).
 
-and the data sets that you used, which can be found at [Cortexa - About the data]([https://cortexa-rna.com/about]).
+and the data sets that you used, which can be found at [Cortexa - About the data](https://cortexa-rna.com/about).
