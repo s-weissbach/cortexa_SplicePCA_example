@@ -22,7 +22,9 @@ Once these files are downloaded, you can use them for the custom analysis in Spl
 
 5. Press **Start PCA**, the process can take a while.
 
+<img title="raw" src="graphics/nova2kd.svg" alt="raw synapse" width="457">
 
+*Result of SplicePCA using the Casette Exon ([SE.MATS.JCEC.txt](data/SE.MATS.JCEC.txt)) analyzed with **Development** and ***NPC/neuron** data and visualized after **Download PCA** with [matplotlib](https://matplotlib.org/).*
 
 ## Analyze your own files
 
@@ -39,3 +41,13 @@ In order to minimize technical effects, you should do the analysis as described 
 **Reference Genome**:
 
 - [Gencode mm39]([GENCODE - Mouse Release M33](https://www.gencodegenes.org/mouse/release_M33.html))
+
+![raw synapse](graphics/nova2kd.svg "raw")
+
+<img title="Analysis Pipeline" src="graphics/pipeline_graph.svg" alt="pipeline" width="594">
+
+*Analysis pipeline for alternative splicing*
+
+## Hot to Cite
+
+Weißbach, Stephan, et al. "Cortexa – a comprehensive web-portal for gene expression and alternative splicing of the murine neocortex and hippocampus." *biorxiv* (2024).
