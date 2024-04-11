@@ -42,7 +42,6 @@ In order to minimize technical effects, you should do the analysis as described 
 
 - [Gencode mm39]([GENCODE - Mouse Release M33](https://www.gencodegenes.org/mouse/release_M33.html))
 
-![raw synapse](graphics/nova2kd.svg "raw")
 
 <img title="Analysis Pipeline" src="graphics/pipeline_graph.svg" alt="pipeline" width="594">
 
