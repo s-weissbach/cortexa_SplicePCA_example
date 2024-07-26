@@ -33,8 +33,14 @@ In order to minimize technical effects, you should do the analysis as described 
 **Tools**:
 
 - [BBDuk (version 39.01)](https://sourceforge.net/projects/bbmap/files/BBMap_39.01.tar.gz/download)
+   - [Installation](https://jgi.doe.gov/data-and-tools/software-tools/bbtools/bb-tools-user-guide/installation-guide/)
+   - [Useage](https://jgi.doe.gov/data-and-tools/software-tools/bbtools/bb-tools-user-guide/bbduk-guide/) 
 - [STAR (version 2.7.10b)](https://github.com/alexdobin/STAR/releases/download/2.7.11b/STAR_2.7.11b.zip)
+   - [Installation](https://github.com/alexdobin/STAR?tab=readme-ov-file#compiling-from-source)
+   - [Useage](https://github.com/alexdobin/STAR/blob/master/doc/STARmanual.pdf) 
 - [rMATS turbo (version 4.1.2)](https://rnaseq-mats.sourceforge.io/rmats4.0.1/user_guide.htm)
+   - [Installation](https://github.com/Xinglab/rmats-turbo?tab=readme-ov-file#build)
+   - [Useage](https://github.com/Xinglab/rmats-turbo?tab=readme-ov-file#starting-with-bam-files) 
 
 **Reference Genome**:
 - [Gencode mm39](https://www.gencodegenes.org/mouse/release_M33.html)
