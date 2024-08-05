@@ -220,8 +220,7 @@ Use the `SE.MATS.JCEC.txt` file from the rMATS output for upload to SplicePCA.
 Follow the steps in the "Use SplicePCA" section to upload and analyze your processed files.
 
 
-
-## Hot to Cite
+## How to Cite
 
 > Weißbach, Stephan, et al. "Cortexa – a comprehensive resource for studying gene expression and alternative splicing in the murine brain." *biorxiv* (2024).
 
