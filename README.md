@@ -50,15 +50,8 @@ In order to minimize technical effects, you should do the analysis as described 
 
 *Analysis pipeline for alternative splicing*
 
-# Cortexa SplicePCA Example
 
-In this tutorial, we will walk you through the process of analyzing your own files for the SplicePCA tool.
-
-## Use SplicePCA
-
-[This section remains unchanged]
-
-## Analyze your own files
+## Prototypic Pipeline
 > [!CAUTION]
 > This is just a general outline of a pipeline and it has to be adapted to your parameters.
 
