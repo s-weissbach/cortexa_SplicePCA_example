@@ -74,9 +74,12 @@ To minimize technical effects, you should perform the analysis as described in t
 #### STAR (version 2.7.10b)
 
 1. Download STAR from [GitHub](https://github.com/alexdobin/STAR/releases/download/2.7.11b/STAR_2.7.11b.zip)
+   ```bash
+   wget https://github.com/alexdobin/STAR/archive/2.7.11b.tar.gz
+   ```
 2. Extract the ZIP file:
    ```bash
-   unzip STAR_2.7.11b.zip
+   tar -xzf 2.7.11b.tar.gz
    ```
 3. Compile STAR:
    ```bash
