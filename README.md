@@ -225,6 +225,6 @@ Follow the steps in the "Use SplicePCA" section to upload and analyze your proce
 
 ## How to Cite
 
-> Weißbach, Stephan, et al. "Cortexa – a comprehensive resource for studying gene expression and alternative splicing in the murine brain." *biorxiv* (2024).
+> Weißbach, S., Milkovits, J., Pastore, S. et al. Cortexa: a comprehensive resource for studying gene expression and alternative splicing in the murine brain. *BMC Bioinformatics* 25, 293 (2024). https://doi.org/10.1186/s12859-024-05919-y
 
 and the data sets that you used, which can be found at [Cortexa - About the data](https://cortexa-rna.com/about).
